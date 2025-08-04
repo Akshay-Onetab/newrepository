@@ -1,5 +1,5 @@
-Wifi
+//This file contains the sensitive data.
 
-id - akshaydeshmukh@onetab.ai
+id - akshaydeshmukh@onetab.ai // this is the id of the user
 
-Password - Akshay@Link!2091
+Password - Akshay@Link!2091 // please hide the password in this file
